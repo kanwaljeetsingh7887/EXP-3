@@ -50,7 +50,12 @@ They are classified into 6 types:
 + **Left Shift** `(<<)`: Shifts bits to the left.
 + **Right Shift** `(>>)`: Shifts bits to the right.
 
+## Code: 3A
 ```
+//KANWALJEET SINGH
+//ENTC B2
+//EXP 3A
+//23070123124
 #include <iostream>
 using namespace std;
 
@@ -113,6 +118,16 @@ int main() {
     return 0;
 }
 ```
+
+## Output
+![image](https://github.com/user-attachments/assets/0f51d3db-f2d6-4ff7-a180-2bb77c6ff33f)
+![image](https://github.com/user-attachments/assets/3b20c0a5-c514-4a80-ad65-c1aee6195d8e)
+![image](https://github.com/user-attachments/assets/6181899f-db48-4b51-923b-07ef3fb71216)
+![image](https://github.com/user-attachments/assets/654cae0c-1d9b-4922-add3-8fe92911b097)
+
+
+
+
 
 Code: 2B
 //KANWALJEET SINGH
