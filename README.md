@@ -50,7 +50,7 @@ They are classified into 6 types:
 + **Left Shift** `(<<)`: Shifts bits to the left.
 + **Right Shift** `(>>)`: Shifts bits to the right.
 
-## Code: 3A
+## Code: 
 ```
 //KANWALJEET SINGH
 //ENTC B2
