@@ -49,25 +49,6 @@ They are classified into 6 types:
 + **Left Shift** `(<<)`: Shifts bits to the left.
 + **Right Shift** `(>>)`: Shifts bits to the right.
 
-
-
-
-
-
-
-
-
-
-Basic Datatype
-Derived Datatype
-User-Defined Datatype
-Storage class in C++ determines the characteristics of a variable. C++ has 5 types of storage classes which are as follows:
-
-Auto
-Extern
-Mutable
-Register
-Static
 Code: 2A
 //KANWALJEET SINGH
 //ENTC B2
