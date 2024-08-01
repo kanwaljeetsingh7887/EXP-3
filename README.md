@@ -1,6 +1,6 @@
 # EXP 3
 ## Aim:
-To study and implement Operators in C++
+**To study and implement Operators in C++**
 
 ## Software:
 Microsoft VSCode
@@ -8,6 +8,7 @@ Microsoft VSCode
 ## Theory:
  Opeartors in C++ are the symbols that are used two perform some mathematocalor logical operations on the variables.
 They are classified into 6 types:
+
 **1. Arithmetic Operators:**
 
 + **Addition** `(+)`: Adds two operands.
@@ -45,7 +46,7 @@ They are classified into 6 types:
 + **AND** `(&)`: Performs a bitwise AND.
 + **OR** `(|)`: Performs a bitwise OR.
 + **XOR** `(^)`: Performs a bitwise XOR.
-+**NOT** `(~)`: Performs a bitwise NOT.
++ **NOT** `(~)`: Performs a bitwise NOT.
 + **Left Shift** `(<<)`: Shifts bits to the left.
 + **Right Shift** `(>>)`: Shifts bits to the right.
 
