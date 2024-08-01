@@ -126,13 +126,11 @@ int main() {
 ![image](https://github.com/user-attachments/assets/654cae0c-1d9b-4922-add3-8fe92911b097)
 
 
-
-
-
-Code: 2B
+## Code: 3B
+```
 //KANWALJEET SINGH
 //ENTC B2
-//EXP 2B
+//EXP 3B
 //23070123124
 #include<iostream>
 using namespace std;
