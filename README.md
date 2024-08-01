@@ -132,82 +132,9 @@ int main() {
 //ENTC B2
 //EXP 3B
 //23070123124
-#include<iostream>
-using namespace std;
-int main() {
-    int a;
-    char b;
-    signed char c;
-    unsigned char d;
-    float e;
-    double f;
-    long double g;
-    bool h;
-    cout<<"Enter an integer: ";                     
-    cin>>a;
-    cout<<"Size of int is:"<<sizeof(a)<<"\n";        
-
-    cout<<"Enter a character: ";                   
-    cin>>b;
-    cout<<"Size of char is:"<<sizeof(b)<<"\n";        
-
-    cout<<"Enter a character: ";                    
-    cin>>c;
-    cout<<"Size of signed char is:"<<sizeof(c)<<"\n";     
-
-    cout<<"Enter a character: ";                        
-    cin>>d;
-    cout<<"Size of unsigned char is:"<<sizeof(d)<<"\n";  
-
-    cout<<"Enter a number: ";                             
-    cin>>e;
-    cout<<"Size of float is:"<<sizeof(e)<<"\n";           
-    
-
-    cout<<"Enter a number: ";                            
-    cin>>f;
-    cout<<"Size of double is:"<<sizeof(f)<<"\n";         
-
-    cout<<"Enter a number: ";                           
-    cin>>g;
-    cout<<"Size of long double is:"<<sizeof(g)<<"\n";   
-
-    cout<<"Enter a bool value: ";                      
-    cin>>h;
-    cout<<"Size of bool is:"<<sizeof(h)<<"\n";            
-return 0;
-}
-Output:
+```
+## Output:
 image
 
-Code: 2C
-//KANWALJEET SINGH
-//ENTC B2
-//EXP 2C
-//23070123124
-#include<iostream>
-using namespace std;
-
-int main() {
-    int a;
-    cout<<"Enter a number: ";                       
-    cin>>a;
-    cout<<"\nInteger= "<<a<<" and size is "<<sizeof(a)<<" bytes.";  
-
-    register int b;
-    cout<<"\nEnter a number: ";                                     
-    cin>>b;
-    cout<<"\nRegister= "<<b<<" and size is "<<sizeof(b)<<" bytes.";   
-
-    static int d;
-    cout<<"\nEnter any number: ";                                      
-    cin>>d;
-    cout<<"\nStatic= "<<d<<" and size is "<<sizeof(d)<<" bytes.";      
-
-    return 0;
-}
-Output:
-image
-
-Conclusion:
-By studying and implementing various data types in C++, you build a strong foundation in how the language handles data and memory. This knowledge is essential for writing efficient and effective C++ programs. Practicing with real-world examples and exploring advanced concepts like dynamic memory allocation will deepen your understanding and prepare you for more complex programming challenges.# EXP-3
+## Conclusion:
+Operators in C++ are essential for performing various operations, from basic arithmetic to complex bitwise manipulation. Understanding these operators and their correct usage is crucial for writing effective and efficient C++ programs.
