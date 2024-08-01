@@ -50,34 +50,69 @@ They are classified into 6 types:
 + **Left Shift** `(<<)`: Shifts bits to the left.
 + **Right Shift** `(>>)`: Shifts bits to the right.
 
-Code: 2A
-//KANWALJEET SINGH
-//ENTC B2
-//EXP 2A
-//23070123124
+```
 #include <iostream>
 using namespace std;
+
+struct Point {
+    int x;
+    int y;
+};
+
 int main() {
-    cout << "size of char: " << sizeof(char) << " byte" << endl;
-    cout << "size of int: " << sizeof(int) << " byte" << endl;
-    cout << "size of float: " << sizeof(float) << " byte" << endl;
-    cout << "size of double: " << sizeof(double) << " byte" << endl;
-    cout << "size of short int: " << sizeof(short int) << "byte" << endl;
-    cout << "size of long int: " << sizeof(long int) << "byte" << endl;
-    cout << "size of unsigned char: " << sizeof(unsigned char) << "byte" << endl;
-    cout << "size of signed char: " << sizeof(signed char) << "byte" << endl;
-    cout << "size of unsigned int: " << sizeof(unsigned int) << "byte" << endl;
-    cout << "size of signed int: " << sizeof(signed int) << "byte" << endl;
-    cout << "size of unsigned long int: " << sizeof(unsigned long int) << "byte" << endl;
-    cout << "size of signed long int: " << sizeof(signed long int) << "byte" << endl;
-    cout << "size of unsigned short int: " << sizeof(unsigned short int) << "byte" << endl;
-    cout << "size of signed short int: " << sizeof(signed short int) << "byte" << endl;
-    cout << "size of unsigned long long int: " << sizeof(unsigned long long int) << "byte" << endl;
-    cout << "size of bool: " << sizeof(bool) << "byte" << endl;
+    // Arithmetic operators
+    int a = 10, b = 3;
+    cout << "Arithmetic Operators:" << endl;
+    cout << "a + b = " << (a + b) << endl;
+    cout << "a - b = " << (a - b) << endl;
+    cout << "a * b = " << (a * b) << endl;
+    cout << "a / b = " << (a / b) << endl;
+    cout << "a % b = " << (a % b) << endl;
+    
+    // Relational operators
+    cout << "\nRelational Operators:" << endl;
+    cout << "a == b: " << (a == b) << endl;
+    cout << "a != b: " << (a != b) << endl;
+    cout << "a > b: " << (a > b) << endl;
+    cout << "a < b: " << (a < b) << endl;
+    cout << "a >= b: " << (a >= b) << endl;
+    cout << "a <= b: " << (a <= b) << endl;
+    
+    // Logical operators
+    bool x = true, y = false;
+    cout << "\nLogical Operators:" << endl;
+    cout << "x && y: " << (x && y) << endl;
+    cout << "x || y: " << (x || y) << endl;
+    cout << "!x: " << (!x) << endl;
+
+    // Assignment operators
+    int c = 10;
+    cout << "\nAssignment Operators:" << endl;
+    cout << "c = " << c << endl;
+    c += 5;
+    cout << "c += 5: " << c << endl;
+    c -= 3;
+    cout << "c -= 3: " << c << endl;
+    c *= 2;
+    cout << "c *= 2: " << c << endl;
+    c /= 2;
+    cout << "c /= 2: " << c << endl;
+    c %= 3;
+    cout << "c %= 3: " << c << endl;
+    c &= 2;
+    cout << "c &= 2: " << c << endl;
+    c |= 1;
+    cout << "c |= 1: " << c << endl;
+    c ^= 3;
+    cout << "c ^= 3: " << c << endl;
+    c <<= 1;
+    cout << "c <<= 1: " << c << endl;
+    c >>= 1;
+    cout << "c >>= 1: " << c << endl;
+
     return 0;
 }
-Output:
-image
+```
 
 Code: 2B
 //KANWALJEET SINGH
