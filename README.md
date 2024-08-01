@@ -3,7 +3,7 @@
 **To study and implement Operators in C++**
 
 ## Software:
-Microsoft VSCode
+`Microsoft VSCode`
 
 ## Theory:
  Opeartors in C++ are the symbols that are used two perform some mathematocalor logical operations on the variables.
