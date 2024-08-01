@@ -41,7 +41,7 @@ They are classified into 6 types:
 + **Divide and assign** `(/=)`: Divides the left operand by the right operand and assigns the result to the left operand.
 + **Modulus and assign** `(%=)`: Takes the modulus using the left and right operands and assigns the result to the left operand.
 
-**6. Bitwise Operators:**
+**5. Bitwise Operators:**
 
 + **AND** `(&)`: Performs a bitwise AND.
 + **OR** `(|)`: Performs a bitwise OR.
