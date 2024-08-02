@@ -1,6 +1,6 @@
 # EXP 3
 ## Aim:
-**To study and implement Operators in C++**
+_**To study and implement Operators in C++**_
 
 ## Software:
 `Microsoft VSCode`
